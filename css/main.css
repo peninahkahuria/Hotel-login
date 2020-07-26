@@ -1,0 +1,24 @@
+h1{color:black;
+font-size:25pt;
+text-shadow:3px 2px 5px olive;
+height:50px;
+font-family:blippo,fantasy;
+text-indent:50px;}
+
+#A{background-color:gray;
+padding:10px;
+border-radius:10px;
+width:33%;
+height:215px;
+box-shadow:1px 1px 2px black;
+margin-bottom:0px;}
+input{padding:5px;
+width:280px;
+height:30px;
+border-radius:10px;}
+#B{background-color:gray;
+width:35%;
+height:60px;
+margin-top:3px;
+border-radius:10px;
+box-shadow:1px 1px 2px black;}
